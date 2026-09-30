@@ -1,0 +1,4 @@
+# Agent skills tooling (not part of the website)
+.agents/
+.claude/
+skills-lock.json
